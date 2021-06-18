@@ -5,6 +5,7 @@ Create single or multiple instances in Amazon AWS using Terraform Module.
 [Terraform Registry](https://registry.terraform.io/modules/terraform-aws-modules/ec2-instance/aws/latest)
 
 ## Usage
+` vars.tf `
 ```terraform
 variable "my_access_key" {
   default = "---"
