@@ -21,3 +21,6 @@ terraform init
 terraform plan
 terraform apply --auto-approve
 ```
+## Notes
+- Create new directory for each Module.
+- Specify source directory of module inside main.
